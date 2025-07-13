@@ -1,13 +1,13 @@
 Myanmar National Registration Card Format Prefix
 ================================================
 
-Myanmar NRC Format [State Number]\[District]([NAING])[Register No] using Unicode. Fixed all bug, pretty fine and ready to use with myanmar unicode. This is a modified version of https://github.com/greenlikeorange/NRCPrefix
+Myanmar NRC Format [7]\[phamana]([N])[254500] using Unicode. Fixed all bug, pretty fine and ready to use with myanmar unicode. This is a modified version of https://github.com/greenlikeorange/NRCPrefix
 
 ## Match Formats
 
-`[State Number]\[District]([NAING/N])[Register No]`
+`[7]\[phamana]([NAING/N])[254500]`
 
-- `12/OKM(N)123456`
+- `7/phamana(N)254500`
 - `12/OUKAMA(N)123456`
 - `12/OKM(NAING)123456`
 
